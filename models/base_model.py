@@ -6,9 +6,9 @@ for other classes
 
 """
 
-import uuid
 from datetime import datetime
 from models import storage
+from uuid import uuid4
 
 
 class BaseModel:
