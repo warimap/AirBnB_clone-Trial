@@ -1,5 +1,5 @@
 # AirBnB Clone [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/warimap/AirBnB_clone/blob/master/LICENSE) [![Build Status](https://travis-ci.org/warimap/AirBnB_clone.svg?branch=master)](https://travis-ci.org/warimap/AirBnB_clone)
-![alx airbnb](https://github.com/warimap/AirBnB_clone/assets/123955570/fbafb924-b376-4b4f-98af-f50b4e489629)
+alx airbnb.png
 
 
 ### Contents
